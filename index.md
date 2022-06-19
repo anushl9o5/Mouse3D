@@ -1,6 +1,6 @@
 ## A Comprehensive Multiview Dataset for Mice Behaviors
 
-![](mix-1.gif)
+![](Figure6-examples-small.png)
 
 ### Abstract
 _With a few exceptions, existing computer vision solu-
@@ -28,5 +28,10 @@ tracking._
 
 ### Compared to exisiting datasets
 ![](table-large.png)
+
+### Examples
+| ![](mix-1.gif) | ![](mix-2.gif) |
+| -------------- | -------------- |
+| ![](mix-3.gif) | ![](mix-4.gif) |
 
 **Download dataset [here](url)** (_link will be active soon..._)
