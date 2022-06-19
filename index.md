@@ -26,4 +26,7 @@ the mesh such that it can best explain the point cloud and
 new opportunity for neuroscience by scaling-up mouse 3D
 tracking._
 
+### Compared to exisiting datasets
+![](table-large.png)
+
 **Download dataset [here](url)** (_link will be active soon..._)
