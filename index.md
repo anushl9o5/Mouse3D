@@ -1,6 +1,6 @@
 ## A Comprehensive Multiview Dataset for Mice Behaviors
 
-![Image]()
+![](mix-1.gif)
 
 ### Abstract
 _With a few exceptions, existing computer vision solu-
