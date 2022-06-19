@@ -29,6 +29,16 @@ tracking._
 ### Compared to exisiting datasets
 ![](table-large.png)
 
+### Datset Details
+
+_No of Unique Mice - 15_
+
+- **RGB-D Frames** - 256,110
+- **2D Landmarks** - 256,110
+- **Mouse Point clouds** - 42,685
+-  **3D Landmarks** - 42,685
+-  **Deformed Meshes** - 42,685
+
 ### Examples
 | ![](mix-1.gif) | ![](mix-2.gif) |
 | -------------- | -------------- |
