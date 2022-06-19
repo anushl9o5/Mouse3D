@@ -29,7 +29,7 @@ tracking._
 ### Compared to exisiting datasets
 ![](table-large.png)
 
-### Datset Details
+### Dataset Details
 
 _No of Unique Mice - 15_
 
