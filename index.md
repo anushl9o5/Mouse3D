@@ -3,6 +3,7 @@
 ![](Figure6-examples-small.png)
 
 ### Abstract
+<div style="text-align: justify">
 _With a few exceptions, existing computer vision solu-
 tions for tracking animals are built upon a 2D represen-
 tation while motor behaviors, including foraging, locomo-
@@ -25,7 +26,7 @@ the mesh such that it can best explain the point cloud and
 3D landmarks. We anticipate that Mouse3D will provide a
 new opportunity for neuroscience by scaling-up mouse 3D
 tracking._
-
+</div>
 ### Compared to exisiting datasets
 ![](table-large.png)
 
