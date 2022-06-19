@@ -1,7 +1,5 @@
 ## A Comprehensive Multiview Dataset for Mice Behaviors
 
-![](Figure6-examples-small.png)
-
 ### Abstract
 <div style="text-align: justify">
 _With a few exceptions, existing computer vision solu-
@@ -27,6 +25,9 @@ the mesh such that it can best explain the point cloud and
 new opportunity for neuroscience by scaling-up mouse 3D
 tracking._
 </div>
+
+![](Figure6-examples-small.png)
+
 ### Compared to exisiting datasets
 ![](table-large.png)
 
