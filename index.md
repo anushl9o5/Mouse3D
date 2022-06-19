@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## A Comprehensive Multiview Dataset for Mice Behaviors
 
-You can use the [editor on GitHub](https://github.com/anushl9o5/Mouse3D/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Abstract
+_With a few exceptions, existing computer vision solu-
+tions for tracking animals are built upon a 2D represen-
+tation while motor behaviors, including foraging, locomo-
+tion, and social interactions, are by large performed in 3D.
+This mismatch often introduces limited expressibility when
+generalizing to complex interactions that involve significant
+occlusion, viewpoint changes, and pose variations. In this
+paper, we address this challenge by presenting a new 3D
+multiview dataset called Mouse3D—42,685 3D deformable
+meshes of mice controlled by a set of 3D landmarks that
+are fitted to 3D multiview point cloud measurements. A
+key challenge of obtaining a full 3D mesh is to handle oc-
+clusion, e.g., the body parts that are behind the torso. We
+address this challenge by fusing multiview RGB-D images
+where the noisy point cloud from each view is combined
+to form a clean point cloud via truncated signed distance
+function (TSDF) fusion. With the fused point cloud and the
+triangulated landmarks from multiview images, we deform
+the mesh such that it can best explain the point cloud and
+3D landmarks. We anticipate that Mouse3D will provide a
+new opportunity for neuroscience by scaling-up mouse 3D
+tracking._
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anushl9o5/Mouse3D/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Download dataset [here](url) (link will be active soon...)
