@@ -48,4 +48,6 @@ _No of Unique Mice - 15_
 | -------------- | -------------- |
 | ![](mix-3.gif) | ![](mix-4.gif) |
 
-**Download dataset [here](url)** (_link will be active soon..._)
+**Download dataset**
+- [3D Data](https://drive.google.com/file/d/1uoDBdqfmiklSy9piv4jijWI_STEEqljd/view?usp=share_link) (_PointCloud, 3D Pose, Deformed Mesh_) ~43.1GB
+- [Raw Data](url) (_link to be active soon...._) ~4.3TB
